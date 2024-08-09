@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://zeroplusBrook.github.io/Ras1ution_App/Ras1ution_Ad_Hoc_V1.6.100.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://zeroplusBrook.github.io/Ras1ution_App/Ras1ution_Ad_Hoc_V1.6.100/V1.6.100_appicon_57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://zeroplusBrook.github.io/Ras1ution_App/Ras1ution_Ad_Hoc_V1.6.100/V1.6.100_appicon_512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zeroplus.Ras1ution</string>
+				<key>bundle-version</key>
+				<string>1.6.100</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>Ras1ution_Ad_Hoc_V1.6.100</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
